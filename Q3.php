@@ -1,10 +1,10 @@
 <?php
 $studentProfile = [
-    'name'        => 'Shulabh Shrestha',
-    'roll_number' => 40,
+    'name'        => 'Kshitiz Chaudhary',
+    'roll_number' => 18,
     'faculty'     => 'BCSIT',
     'semester'    => 3,
-    'email'       => 'shulabh@gmail.com'
+    'email'       => 'kshitiz@gmail.com'
 ];
 
 echo "STUDENT PROFILE\n";
